@@ -1,0 +1,42 @@
+
+/*---------- Google fonts---------- */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+
+.new-year-banner{
+    position: relative;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.new-year-content{
+    position: absolute;
+    top: 30%;
+    left: 41%;
+    
+}
+
+.new-year-content h1{
+    font-size: 50px;
+    font-weight:900;
+}
+
+
+
+.offer{
+    font-size: 50px;
+    font-weight: 900;
+    color: red;
+}
+
+.deals{
+    color: red;
+}
+.categories{
+    color: black;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
