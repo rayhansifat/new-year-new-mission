@@ -9,7 +9,7 @@
     text-align: center;
     color: #FFFFFF;
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
 }
 
 .new-year-content{
@@ -25,7 +25,7 @@
 }
 
 
-
+/*  */
 .offer{
     font-size: 50px;
     font-weight: 900;
@@ -40,3 +40,39 @@
     font-size: 30px;
     margin-bottom: 50px;
 }
+
+/*  */
+
+.party-banner{
+    position: relative;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.party-banner-description{
+    position: absolute;
+    text-align: left;
+    top: 16%;
+    left: 20%;
+}
+
+.party-banner-description h1{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.party-banner-description p{
+    font-size: 20px;
+}
+
+.btn{
+    margin: 5px;
+    padding: 15px;
+    color: #FFFFFF;
+    background-color:orangered;
+    border: 0;
+    font-size: 20px;
+    font-weight: 800;
+}
+
