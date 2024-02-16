@@ -9,7 +9,7 @@
     text-align: center;
     color: #FFFFFF;
     margin-top: 50px;
-    margin-bottom: 60px;
+    margin-bottom: 100px;
 }
 
 .new-year-content{
@@ -48,7 +48,7 @@
     text-align: center;
     color: #FFFFFF;
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 .party-banner-description{
     position: absolute;
@@ -82,7 +82,7 @@
     position: relative;
     text-align: center;
     margin-left: 300px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 .schedule-banner-description{
@@ -101,4 +101,27 @@
 
 .heading-des{
     color: orangered;
+}
+
+
+/* ---------------- */
+
+.new-offer-banner{
+    display: flex;
+    justify-content: center;
+    gap: 250px;
+    margin-bottom: 100px;
+}
+
+.new-offer-banner h5{
+    color: orangered;
+    font-size: 18px;
+}
+.new-offer-banner h1{
+    font-size: 40px;
+}
+ .year{
+    color: orangered;
+    font-size: 40px;
+    font-weight: 900;
 }
