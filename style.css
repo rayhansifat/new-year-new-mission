@@ -3,7 +3,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
 
-
+/* <!-- ---------------------------------
+--------------Header Section Start ----------------- --> */
 .new-year-banner{
     position: relative;
     text-align: center;
@@ -25,7 +26,7 @@
 }
 
 
-/*  */
+
 .offer{
     font-size: 50px;
     font-weight: 900;
@@ -41,7 +42,7 @@
     margin-bottom: 50px;
 }
 
-/*  */
+
 
 .party-banner{
     position: relative;
@@ -76,8 +77,14 @@
     font-weight: 800;
 }
 
-/* ------------- */
+/* <!-- ---------------------------------
+--------------Header Section End ----------------- --> */
 
+
+
+
+/* <!-- ---------------------------------
+--------------Main Section Start ----------------- --> */
 .schedule-banner{
     position: relative;
     text-align: center;
@@ -227,11 +234,12 @@
 }
 
 
+/* <!-- ---------------------------------
+--------------Main Section End ----------------- --> */
 
 
-
-
-/* ------------ */
+/* <!-- ---------------------------------
+--------------Footer Section Start ----------------- --> */
 .footer{
     position: relative;
     text-align: center;
@@ -263,6 +271,7 @@
 
 .line{
     margin-bottom: 50px;
+    width: 75%;
 }
 .social-image{
     
@@ -273,3 +282,7 @@
     display: flex;
     justify-content: space-around;
 }
+
+
+/* <!-- ---------------------------------
+--------------Footer Section Start ----------------- --> */
