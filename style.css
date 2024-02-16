@@ -137,7 +137,20 @@
 
 .holiday-content{
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
+}
+
+.holiday-content h5{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.holiday-content h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+.holiday-content span{
+    color: orangered;
 }
 .sale-banner{
     display: flex;
