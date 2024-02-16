@@ -94,8 +94,7 @@
   margin-top: 20px;
   margin-bottom: 20px;
   padding-top: 50px;
-  padding-bottom: 50px
-  ;
+  padding-bottom: 50px;
  
 }
 
@@ -109,7 +108,7 @@
 .new-offer-banner{
     display: flex;
     justify-content: center;
-    gap: 250px;
+    gap: 220px;
     margin-bottom: 100px;
 }
 
@@ -124,4 +123,153 @@
     color: orangered;
     font-size: 40px;
     font-weight: 900;
+}
+
+
+/* ------------------ */
+
+.holiday-content{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.sale-banner{
+    display: flex;
+    position: relative;
+    gap: 50px;
+   
+    
+}
+.gift-box{
+    position: relative;
+
+    
+}
+
+.discount{
+    display: flex;  
+    position: relative;
+   
+}
+.discount-image{
+
+    position: absolute;
+    top: 20px;
+    left: 150px;
+    
+}
+.girl{
+    position: absolute;
+    bottom: 235px;
+    left: 320px;
+
+}
+
+
+.line-banner{
+    position: absolute;
+    top: 64%;
+    left: 15%;
+
+}
+
+/* ------------------------ */
+.gift-banner{
+    margin-bottom: 100px;
+}
+.gift-banner-content{
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+.gift-banner-content h4{
+    color: orangered;
+    font-size: 25px;
+}
+.gift-banner-content h1{
+    font-size: 45px;
+    font-weight: 900;
+   
+}
+.gift-banner-content p{
+    color: #070211;
+    
+}
+.gift-images{
+    
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 50px;
+}
+
+/* ------------- */
+
+.your-email{
+    margin: 20px;
+    width: 20%;
+    padding: 20px;
+    background-color: white;
+    border: 0;
+    border-radius: 30px;
+
+}
+
+.btn-subscribe{
+    margin: 20px;
+   
+    padding: 20px;
+    color: #FFFFFF;
+    background-color:orangered;
+    border: 0;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 30px;
+}
+
+
+
+
+
+
+/* ------------ */
+.footer{
+    position: relative;
+    text-align: center;
+    margin-left: 300px;
+   
+}
+.footer-banner{
+    width: 80%;
+    height: 100%;
+    padding: 15px;
+    color: white;
+    background-color: #070211;
+    box-shadow: 10px ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer-banner-content{
+    display: flex;
+    justify-content:space-around;
+    margin-bottom: 50px;
+    
+}
+.phone-images{
+    width: 20px;
+}
+
+.line{
+    margin-bottom: 50px;
+}
+.social-image{
+    
+    margin-bottom: 50px;
+    
+}
+.footer-rights{
+    display: flex;
+    justify-content: space-around;
 }
